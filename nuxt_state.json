@@ -1,0 +1,344 @@
+{
+  "layout": "default",
+  "data": [
+    {}
+  ],
+  "fetch": {},
+  "error": null,
+  "state": {
+    "foods": {
+      "food": {}
+    },
+    "language": {
+      "value": "az"
+    },
+    "main": {
+      "counter": 2,
+      "languageSelectorScreen": false,
+      "waiterTipScreen": false,
+      "waiter": null,
+      "categories": [],
+      "restaurant": {
+        "id": 23,
+        "name": "Qala Divarı",
+        "latitude": "40.36855",
+        "longitude": "49.833555",
+        "status": 1,
+        "address": "28 Kichik Qala, Bakı, Azərbaycan",
+        "opening_date": "08:00:00",
+        "finish_date": "00:00:00",
+        "facebook": null,
+        "instagram": "qala_divari",
+        "whatsapp": "994505555051",
+        "discount": 0,
+        "photos": [
+          "https://cdn.cafepos.az/storage/restaurants/64621e1e0c827.jpg",
+          "https://cdn.cafepos.az/storage/restaurants/64621e1e237ee.JPG",
+          "https://cdn.cafepos.az/storage/restaurants/64621e1e4116e.JPG",
+          "https://cdn.cafepos.az/storage/restaurants/64621e1e5b566.JPG",
+          "https://cdn.cafepos.az/storage/restaurants/64621e1e76803.JPG",
+          "https://cdn.cafepos.az/storage/restaurants/64621e1e9154b.JPG",
+          "https://cdn.cafepos.az/storage/restaurants/64621e1eabe83.JPG"
+        ],
+        "details": [],
+        "main": 0,
+        "pdf": null,
+        "youtube": null,
+        "created_at": "2022-06-29T08:38:55.000000Z",
+        "updated_at": "2025-10-06T07:16:50.000000Z",
+        "metro": "ICARISHAHAR",
+        "description": "Gözəl interyerdə vaxtınızı gözəl və səmərəli keçirəcəyiniz məkan",
+        "country": "AZ",
+        "city_id": 1,
+        "onboarding_media": {
+          "type": "video",
+          "source": "https://cdn.cafepos.az/storage/files/cMcuDWMTQT831iNiIGlZkJJlYfvCZs7Wgo8oI5EwoajecNV1vc.mp4?v=CiSOLg4KJwxYCJRZ"
+        },
+        "service_charge": 10,
+        "background_color": "0F0F0F",
+        "primary_color": "FF6B00",
+        "show_reviews": 1,
+        "show_cart_total": 1,
+        "show_description_in_foods_page": 1,
+        "theme_colors": {
+          "red": "#DF0000",
+          "gray": "#ACACAC",
+          "black": "#0F0F0F",
+          "green": "#1AB445",
+          "white": "#FFFFFF",
+          "orange": "#FF6B00",
+          "black-reg": "#3E3E3E",
+          "black-medium": "#282828"
+        },
+        "deleted_at": null,
+        "reviews_count": 58,
+        "languages": [
+          "ar",
+          "az",
+          "en",
+          "ru"
+        ],
+        "original_photos": [
+          {
+            "original": "restaurants/64621e1e0c827.jpg",
+            "link": "https://cdn.cafepos.az/storage/restaurants/64621e1e0c827.jpg"
+          },
+          {
+            "original": "restaurants/64621e1e237ee.JPG",
+            "link": "https://cdn.cafepos.az/storage/restaurants/64621e1e237ee.JPG"
+          },
+          {
+            "original": "restaurants/64621e1e4116e.JPG",
+            "link": "https://cdn.cafepos.az/storage/restaurants/64621e1e4116e.JPG"
+          },
+          {
+            "original": "restaurants/64621e1e5b566.JPG",
+            "link": "https://cdn.cafepos.az/storage/restaurants/64621e1e5b566.JPG"
+          },
+          {
+            "original": "restaurants/64621e1e76803.JPG",
+            "link": "https://cdn.cafepos.az/storage/restaurants/64621e1e76803.JPG"
+          },
+          {
+            "original": "restaurants/64621e1e9154b.JPG",
+            "link": "https://cdn.cafepos.az/storage/restaurants/64621e1e9154b.JPG"
+          },
+          {
+            "original": "restaurants/64621e1eabe83.JPG",
+            "link": "https://cdn.cafepos.az/storage/restaurants/64621e1eabe83.JPG"
+          }
+        ],
+        "name_en": "",
+        "name_ru": "",
+        "name_ar": "Qala Divarı",
+        "address_en": "",
+        "address_ru": "",
+        "address_ar": "",
+        "reservation_tables": [],
+        "youtube_url": null,
+        "order_types": {
+          "qrcode": false,
+          "package": false,
+          "delivery": false,
+          "order": false
+        },
+        "is_open": true,
+        "deposit": 0,
+        "is_can_order": false,
+        "is_has_menu": true,
+        "description_en": "",
+        "description_ru": "",
+        "description_ar": "Gözəl interyerdə vaxtınızı gözəl və səmərəli keçirəcəyiniz məkan",
+        "go_to_map": "https://www.google.com/maps/dir/?api=1&destination=40.36855,49.833555",
+        "reservation_types": [],
+        "show_price_in_cart": true,
+        "show_counter_in_cart": true,
+        "rate": 5,
+        "modal_promotion": null,
+        "promotions": [],
+        "waiters": [],
+        "tables": [],
+        "table_types": [],
+        "categories": [
+          {
+            "id": 10,
+            "name": "Restoranlar",
+            "status": 1,
+            "photo": "https://cdn.cafepos.az/storage/restaurants/w12fxls1shtfgwof/6470fa2d918e1.svg",
+            "created_at": "2022-05-28T19:28:55.000000Z",
+            "updated_at": "2023-05-26T18:50:38.000000Z",
+            "position": 0,
+            "name_en": "All Restaurants",
+            "name_ru": "Все рестораны",
+            "name_ar": "جميع المطاعم",
+            "original_photo": "restaurants/w12fxls1shtfgwof/6470fa2d918e1.svg",
+            "pivot": {
+              "restaurant_id": 23,
+              "category_id": 10
+            }
+          },
+          {
+            "id": 12,
+            "name": "Canlı musiqi",
+            "status": 1,
+            "photo": "https://cdn.cafepos.az/storage/restaurants/wzdqv2p4qxq0f1mv/6470f8803a10d.svg",
+            "created_at": "2022-05-28T19:30:35.000000Z",
+            "updated_at": "2023-05-26T18:50:38.000000Z",
+            "position": 1,
+            "name_en": "Live music",
+            "name_ru": "Живая музыка",
+            "name_ar": "موسيقى مباشره",
+            "original_photo": "restaurants/wzdqv2p4qxq0f1mv/6470f8803a10d.svg",
+            "pivot": {
+              "restaurant_id": 23,
+              "category_id": 12
+            }
+          },
+          {
+            "id": 14,
+            "name": "Çatdırılma",
+            "status": 1,
+            "photo": "https://cdn.cafepos.az/storage/restaurants/swfytoh1gz1izetq/6470f89526211.svg",
+            "created_at": "2022-05-28T19:31:36.000000Z",
+            "updated_at": "2023-05-26T18:50:38.000000Z",
+            "position": 10,
+            "name_en": "Delivery",
+            "name_ru": "Доставка",
+            "name_ar": "توصيل",
+            "original_photo": "restaurants/swfytoh1gz1izetq/6470f89526211.svg",
+            "pivot": {
+              "restaurant_id": 23,
+              "category_id": 14
+            }
+          },
+          {
+            "id": 17,
+            "name": "Banket",
+            "status": 1,
+            "photo": "https://cdn.cafepos.az/storage/restaurants/nsvt3ln3rv4oapur/6470f828a0a12.svg",
+            "created_at": "2022-05-28T23:33:10.000000Z",
+            "updated_at": "2023-05-26T18:50:38.000000Z",
+            "position": 13,
+            "name_en": "Banquet",
+            "name_ru": "Банкет",
+            "name_ar": "مأدبة",
+            "original_photo": "restaurants/nsvt3ln3rv4oapur/6470f828a0a12.svg",
+            "pivot": {
+              "restaurant_id": 23,
+              "category_id": 17
+            }
+          },
+          {
+            "id": 23,
+            "name": "POS-terminal",
+            "status": 1,
+            "photo": "https://cdn.cafepos.az/storage/restaurants/zgvl4e3ummrx4kkt/6470f8e8729aa.svg",
+            "created_at": "2022-05-28T23:36:50.000000Z",
+            "updated_at": "2023-05-26T18:50:38.000000Z",
+            "position": 20,
+            "name_en": "",
+            "name_ru": "",
+            "name_ar": "",
+            "original_photo": "restaurants/zgvl4e3ummrx4kkt/6470f8e8729aa.svg",
+            "pivot": {
+              "restaurant_id": 23,
+              "category_id": 23
+            }
+          },
+          {
+            "id": 31,
+            "name": "Brend",
+            "status": 0,
+            "photo": "https://cdn.cafepos.az/storage/restaurants/p09r1on2jpbwqnqe/6470f95c22d35.svg",
+            "created_at": "2022-05-28T23:39:41.000000Z",
+            "updated_at": "2023-05-26T18:50:38.000000Z",
+            "position": 23,
+            "name_en": "Brand",
+            "name_ru": "Бренд",
+            "name_ar": "ماركة",
+            "original_photo": "restaurants/p09r1on2jpbwqnqe/6470f95c22d35.svg",
+            "pivot": {
+              "restaurant_id": 23,
+              "category_id": 31
+            }
+          },
+          {
+            "id": 33,
+            "name": "Sifariş",
+            "status": 0,
+            "photo": "https://cdn.cafepos.az/storage/restaurants/sifaris/62b7b388cd7a6.jpg",
+            "created_at": "2022-06-26T01:16:56.000000Z",
+            "updated_at": "2023-05-26T18:50:38.000000Z",
+            "position": 25,
+            "name_en": "Order",
+            "name_ru": "Заказ",
+            "name_ar": "ترتيب",
+            "original_photo": "restaurants/sifaris/62b7b388cd7a6.jpg",
+            "pivot": {
+              "restaurant_id": 23,
+              "category_id": 33
+            }
+          }
+        ],
+        "show_basket": true
+      },
+      "category": null,
+      "foods": null,
+      "subCategories": [],
+      "subCategoryFoods": [],
+      "entitiesByCategoryId": {},
+      "showSearchScreen": false,
+      "waiters": [],
+      "windowScrollPosition": 0,
+      "cartItems": {},
+      "orderComment": null,
+      "promotions": [],
+      "modalPromotion": null,
+      "canMakePayByWallet": false,
+      "isApplePayAvailable": false,
+      "isGooglePayAvailable": false,
+      "tokenPaymentData": {
+        "id": null,
+        "amount": ""
+      },
+      "googlePayConfig": {
+        "csMerchantIdDev": "epointpay_txn001",
+        "csMerchantIdProd": "epointpayment_txn001",
+        "gpMerchantIdDev": "0830 - 1980 - 7566",
+        "gpMerchantIdProd": "BCR2DN4TY3DITOZH"
+      },
+      "googlePayBaseRequest": {
+        "apiVersion": 2,
+        "apiVersionMinor": 0,
+        "allowedPaymentMethods": [
+          {
+            "type": "CARD",
+            "parameters": {
+              "allowedAuthMethods": [
+                "PAN_ONLY",
+                "CRYPTOGRAM_3DS"
+              ],
+              "allowedCardNetworks": [
+                "MASTERCARD",
+                "VISA"
+              ]
+            },
+            "tokenizationSpecification": {
+              "type": "PAYMENT_GATEWAY",
+              "parameters": {
+                "gateway": "cybersource",
+                "gatewayMerchantId": "TEST"
+              }
+            }
+          }
+        ],
+        "merchantInfo": {
+          "merchantId": "TEST",
+          "merchantName": "Global Innovations LLC"
+        }
+      },
+      "applePayMerchantIdDev": "merchant.az.epoint.dev.applepay",
+      "applePayMerchantId": "merchant.az.epoint.applepay",
+      "showPromotionModal": true
+    },
+    "onboarding": {
+      "sourceType": "video",
+      "source": "/onboarding/video.mp4",
+      "title": "Are you ready to look for delicious food?"
+    },
+    "i18n": {
+      "routeParams": {}
+    }
+  },
+  "serverRendered": true,
+  "routePath": "/restaurants/23",
+  "config": {
+    "_app": {
+      "basePath": "/",
+      "assetsPath": "/_nuxt/",
+      "cdnURL": null
+    }
+  },
+  "globalRefs": {},
+  "ssrRefs": {}
+}

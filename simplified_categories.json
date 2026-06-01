@@ -1,0 +1,44 @@
+[
+  {
+    "id": 10,
+    "name_en": "All Restaurants",
+    "name_ru": "Все рестораны",
+    "foods_count": 0
+  },
+  {
+    "id": 12,
+    "name_en": "Live music",
+    "name_ru": "Живая музыка",
+    "foods_count": 0
+  },
+  {
+    "id": 14,
+    "name_en": "Delivery",
+    "name_ru": "Доставка",
+    "foods_count": 0
+  },
+  {
+    "id": 17,
+    "name_en": "Banquet",
+    "name_ru": "Банкет",
+    "foods_count": 0
+  },
+  {
+    "id": 23,
+    "name_en": "",
+    "name_ru": "",
+    "foods_count": 0
+  },
+  {
+    "id": 31,
+    "name_en": "Brand",
+    "name_ru": "Бренд",
+    "foods_count": 0
+  },
+  {
+    "id": 33,
+    "name_en": "Order",
+    "name_ru": "Заказ",
+    "foods_count": 0
+  }
+]

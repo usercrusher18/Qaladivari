@@ -1,0 +1,6 @@
+{
+  "name": "Qala Divarı Restoranı",
+  "description": "Bakının ürəyində, qədim İçərişəhərdə yerləşən Qala Divarı restoranının rəsmi saytı. Əsl Azərbaycan milli mətbəxi, qədim atmosfera və muğam gecələri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

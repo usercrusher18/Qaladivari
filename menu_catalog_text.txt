@@ -1,0 +1,509 @@
+QALA DIVARI REAL-TIME MENU EXTRANET
+=================================
+
+
+--- ƏSAS YEMƏKLƏR -> Səhər Yeməyi (33 items) ---
+- Səhər yeməyi seti (55 ₼) | Has Image
+  Desc: (Saat 13:00-dək) pomidoryumurta, kükü, pendirli omlet, Gəncə qaymağı, zeytun, çiyələk mürəbbəsi, əncir mürəbbəsi, bal, sadə pendir, motal pendiri, nehrə yağı, şor, süzmə, xama, qatılaşdırılmış süd, şokolad yağı,pomidor/xiyar, 3 çaynik çay və 3 ədəd təndir çörəyi
+- Qayğanaq (3 ₼) | Has Image
+  Desc: No description.
+- Soyutma yumurta (3 ₼) | Has Image
+  Desc: No description.
+- Pendirli omlet (6 ₼) | Has Image
+  Desc: No description.
+- Sosiska ilə omlet (8 ₼) | Has Image
+  Desc: No description.
+- Sucuk ilə omlet (12 ₼) | Has Image
+  Desc: No description.
+- Kükü (6 ₼) | Has Image
+  Desc: No description.
+- Pomidor yumurta (7 ₼) | Has Image
+  Desc: No description.
+- Soyutma sosiska (6 ₼) | Has Image
+  Desc: No description.
+- Blinçik (5 ₼) | Has Image
+  Desc: Ət ilə
+- Blinçik (4 ₼) | Has Image
+  Desc: kəsmik ilə
+- Kərə yağı (4 ₼) | Has Image
+  Desc: No description.
+- Nehrə yağı (4 ₼) | Has Image
+  Desc: No description.
+- Qaymaq (7 ₼) | Has Image
+  Desc: No description.
+- Kənd pendiri (4 ₼) | Has Image
+  Desc: No description.
+- Motal pendiri (5 ₼) | Has Image
+  Desc: No description.
+- Holland pendiri (5 ₼) | Has Image
+  Desc: No description.
+- Kənd xaması (3 ₼) | Has Image
+  Desc: No description.
+- Şor (4 ₼) | Has Image
+  Desc: No description.
+- Süzmə (4 ₼) | Has Image
+  Desc: No description.
+- Bal (5 ₼) | Has Image
+  Desc: No description.
+- Qızardılmış sucuk (9 ₼) | Has Image
+  Desc: No description.
+- Şokolad yağı (3 ₼) | Has Image
+  Desc: No description.
+- Qatılaşdırılmış süd (3 ₼) | Has Image
+  Desc: No description.
+- Təndir çörəyi (2 ₼) | Has Image
+  Desc: No description.
+- Zeytun çeşidləri (4 ₼) | Has Image
+  Desc: No description.
+- Tərəvəz (4 ₼) | Has Image
+  Desc: No description.
+- Çiyələk mürəbbəsi (3 ₼) | Has Image
+  Desc: No description.
+- Əncir mürəbbəsi (3 ₼) | Has Image
+  Desc: No description.
+- Ərik mürəbbəsi (5 ₼) | Has Image
+  Desc: No description.
+- Qala Divarı omleti (10 ₼) | Has Image
+  Desc: No description.
+- Sucuk Qlazok (12 ₼) | Has Image
+  Desc: No description.
+- Sosiska ilə qlazok (8 ₼) | Has Image
+  Desc: No description.
+
+--- ƏSAS YEMƏKLƏR -> Salatlar (12 items) ---
+- Çoban salatı (7 ₼) | Has Image
+  Desc: xiyar, pomidor, göyərti, limon
+- Manqal salatı (7 ₼) | Has Image
+  Desc: badımcan, bolqar bibəri, soğan, göyərti, qarğıdalı yağı
+- Paytaxt salatı (7 ₼) | Has Image
+  Desc: tərəvəzlər, yaşıl noxud, toyuq filesi, göyərti, yumurta. mayonez
+- Bakı salatı (11 ₼) | Has Image
+  Desc: pomidor, soğan, nar, reyhan, zoğal turşusu
+- Rukola can əti ilə (17 ₼) | Has Image
+  Desc: rukola, can əti, pomidor, tərəvəzlər, qara küncüt, soya sousu
+- Toyuq salatı (8 ₼) | Has Image
+  Desc: toyuq filesi, tərəvəzlər, zeytun yağı, mayonez
+- Sezar toyuq ilə (12 ₼) | Has Image
+  Desc: toyuq file, aysberq, pomidor, krutonlar, parmezan, sezar sousu
+- Sezar krevetka ilə (15 ₼) | Has Image
+  Desc: krevetlər, aysberq, pomidor, krutonlar, parmezan, sezar sousu
+- Xırçıldayan badımcan salatı (13 ₼) | Has Image
+  Desc: badımcan, pomidor, küncüd, göy soğan, special sous
+- Gavurdağı Salatı (8 ₼) | Has Image
+  Desc: pomidor, xiyar, qırmızı soğan, cafari, qoz, nar şəraba
+- Qala Divarı Salatı (13 ₼) | Has Image
+  Desc: Qazax pomidoru, Göyərtilər, Qırmızı soğan,  Motal pendiri, Qoz, Narşərab, Zeytun yağı
+- Mimoza (8 ₼) | Has Image
+  Desc: toyuğun döş əti, kartof, yumurta, yerkökü, holland pendiri, mayonez
+
+--- ƏSAS YEMƏKLƏR -> Soyuq Qəlyanaltılar (15 items) ---
+- Toyuq paşteti (12 ₼) | Has Image
+  Desc: No description.
+- Tərəvəz buketi (6 ₼) | Has Image
+  Desc: Pomidor, xiyar, göyərti
+- Badımcan ruleti (8 ₼) | Has Image
+  Desc: Badımcan, qoz, soğan, nar sousu
+- Zeytun çeşidləri (5 ₼) | Has Image
+  Desc: Qara zeytun, yaşıl zeytun
+- Acika (6 ₼) | Has Image
+  Desc: No description.
+- Pendir assorti (9 ₼) | Has Image
+  Desc: Kənd pendiri, motal, camış pendiri
+- Qara kürü (150 ₼) | Has Image
+  Desc: No description.
+- Turşu assorti (9 ₼) | Has Image
+  Desc: No description.
+- Assorti Avropa pendir çeşidləri (22 ₼) | Has Image
+  Desc: Parmezan, çeddar, qauda, hisə verilmiş pendir, bal, üzüm
+- Babaqanuş (7 ₼) | Has Image
+  Desc: No description.
+- Haydari (6 ₼) | Has Image
+  Desc: No description.
+- Humus (7 ₼) | Has Image
+  Desc: No description.
+- Qatlq (2 ₼) | Has Image
+  Desc: No description.
+- Qurut (2 ₼) | Has Image
+  Desc: No description.
+- Pərpətöyünlü salat (7 ₼) | Has Image
+  Desc: Pərpətöyün, qatıq, qaymaq, xiyar
+
+--- ƏSAS YEMƏKLƏR -> Şorbalar (10 items) ---
+- Əriştə (8 ₼) | Has Image
+  Desc: Lobya, quzu əti, sarı alça, zəfəran, əvəlik
+- Düşbərə (9 ₼) | Has Image
+  Desc: Quzu əti, xəmir, nanə, bulyon
+- Piti (15 ₼) | Has Image
+  Desc: Quzu əti, quyruq, noxud, şabalıd, zəfəran
+- Mərci (6 ₼) | Has Image
+  Desc: mərci, soğan, limon, kərə yağı
+- Toyuq şorbası (8 ₼) | Has Image
+  Desc: toyuq bulyonu, düyü, soğan, tərəvəz, toyuq
+- Göbələk şorbası (7 ₼) | Has Image
+  Desc: No description.
+- Dovğa (6 ₼) | Has Image
+  Desc: qatıq, göyərti, düyü
+- Bakı Küftəsi (10 ₼) | Has Image
+  Desc: quzu əti, kartof, noxud, zəfəran bulyonu
+- Buğlama (16 ₼) | Has Image
+  Desc: No description.
+- Xaş (14 ₼) | Has Image
+  Desc: No description.
+
+--- ƏSAS YEMƏKLƏR -> Toyuq Yeməkləri (6 items) ---
+- Kefli beçə (22 ₼) | Has Image
+  Desc: kənd çolpası, ağ\qırmızı şərab
+- Tabaka (22 ₼) | Has Image
+  Desc: kənd çolpası, evsayağı kartof
+- Toyuq nuggetsləri (12 ₼) | Has Image
+  Desc: panələnmiş toyuq filesi, kartof fri
+- Toyuq file göbələk sousu ilə (16 ₼) | Has Image
+  Desc: toyuq filesi, göbələk sousu, düyü
+- Çolpa albalı sousunda (22 ₼) | Has Image
+  Desc: kənd çolpası, albalı sousu, soğan
+- Mozarella Çubuqları (13 ₼) | Has Image
+  Desc: No description.
+
+--- ƏSAS YEMƏKLƏR -> Xəmir Yeməkləri (6 items) ---
+- Ət qutabı (2.6 ₼) | Has Image
+  Desc: xəmir, ət qiyməsi, nar, sumax
+- Göy qutabı (2 ₼) | Has Image
+  Desc: xəmir, göyərti
+- Balqabaq qutabı (2 ₼) | Has Image
+  Desc: xəmir, balqabaq, nar
+- Holland pendiri ilə qutab (2.5 ₼) | Has Image
+  Desc: xəmir, holland pendiri
+- Gürzə (12 ₼) | Has Image
+  Desc: xəmir, ət qiyməsi, kərə yağı (10 ədəd)
+- Gürzə qızartma (13 ₼) | Has Image
+  Desc: xəmir, ət qiyməsi (10 ədəd)
+
+--- ƏSAS YEMƏKLƏR -> Plovlar (4 items) ---
+- Turşu qovurma plov (20 ₼) | Has Image
+  Desc: düyü, quzu əti, soğan, albuxara, şabalıd, sarıkök, kərə yağı
+- Səbzi qovurma plov (20 ₼) | Has Image
+  Desc: düyü, dana əti, soğan, göyərti, kərə yağı, zəfəran
+- Çığırtma plov (18 ₼) | Has Image
+  Desc: düyü, kənd çolpası, soğan, pomidor, yumurta, kərə yağı
+- Şah Plov (70 ₼) | Has Image
+  Desc: No description.
+
+--- ƏSAS YEMƏKLƏR -> Qarnirlər (3 items) ---
+- Kartof fri (5 ₼) | Has Image
+  Desc: No description.
+- Evsayağı kartof (8 ₼) | Has Image
+  Desc: No description.
+- Zəfəranlı düyü (5 ₼) | Has Image
+  Desc: No description.
+
+--- ƏSAS YEMƏKLƏR -> Kabablar (17 items) ---
+- Çolpa manqalda (20 ₼) | Has Image
+  Desc: No description.
+- Quzu kababı tikə (13 ₼) | Has Image
+  Desc: No description.
+- Quzu antrikot (14 ₼) | Has Image
+  Desc: No description.
+- Lülə kabab (12 ₼) | Has Image
+  Desc: No description.
+- Dana Basdırmasi kababi (15 ₼) | Has Image
+  Desc: No description.
+- Toyuq kababı (9 ₼) | Has Image
+  Desc: No description.
+- Kartof quyruq ilə (8 ₼) | Has Image
+  Desc: No description.
+- Nərə balığı kababı (40 ₼) | Has Image
+  Desc: No description.
+- Badımcan kababı quyruq ilə (1ededi) (2 ₼) | Has Image
+  Desc: No description.
+- Pomidor kababı(1ededi) (1 ₼) | Has Image
+  Desc: No description.
+- Bibər kababı (1 eledi) (1 ₼) | Has Image
+  Desc: No description.
+- Quyruq Kababı (13 ₼) | Has Image
+  Desc: No description.
+- Kartof Lüləsi (4 ₼) | Has Image
+  Desc: No description.
+- Göbələk Kababı (6 ₼) | Has Image
+  Desc: No description.
+- Quzu Basdirma Kabab (13 ₼) | Has Image
+  Desc: No description.
+- Acılı Toyuq Qanadları (7 ₼) | Has Image
+  Desc: No description.
+- Toyuq lüləsi (9 ₼) | Has Image
+  Desc: Toyuq əti, quyruq
+
+--- ƏSAS YEMƏKLƏR -> Balıq Yeməkləri (5 items) ---
+- Qızardılmış forel (18 ₼) | Has Image
+  Desc: No description.
+- Qızıl balıq portağal sousu ilə (22 ₼) | Has Image
+  Desc: qızıl balıq, portağal,
+- Nərə nar qovurması (45 ₼) | Has Image
+  Desc: nərə balığı, şabalıd, nar sousu, nar, kərə yağı
+- Nərə balığından sırdaq (45 ₼) | Has Image
+  Desc: nərə balığı, pomidor, albuxara, sarımsaq, göyərti
+- Qızardılmış dorado (21 ₼) | Has Image
+  Desc: No description.
+
+--- ƏSAS YEMƏKLƏR -> Sac (4 items) ---
+- Toyuq sacı (30 ₼) | Has Image
+  Desc: kənd çolpası, göbələk, soğan, yağ, tərəvəzlər
+- Quzu sacı (33 ₼) | Has Image
+  Desc: quzu əti, tərəvəz, yağ, soğan
+- Can əti sacı (36 ₼) | Has Image
+  Desc: can əti, tərəvəzlər, soğan
+- Sac assorti (46 ₼) | Has Image
+  Desc: kənd çolpası, can əti, quzu əti, tərəvəzlər, soğan
+
+--- ƏSAS YEMƏKLƏR -> Ət Yeməkləri (15 items) ---
+- Dolma (14 ₼) | Has Image
+  Desc: üzüm yarpağı, düyü, quzu əti, göyərti
+- Pip dolma (14 ₼) | Has Image
+  Desc: pip yarpağı, düyü, quzu əti, göyərti
+- Badımcan dolması (14 ₼) | Has Image
+  Desc: badımcan, pomidor, bibər, quzu əti
+- Cız-bız (13 ₼) | Has Image
+  Desc: içalat, kartof, quyruq, pomidor
+- Çoban qovurma (18 ₼) | Has Image
+  Desc: quzu əti, pomidor, bolqar bibəri, kartof
+- Tenderloin steyk (38 ₼) | Has Image
+  Desc: can əti, pomidor, kartof
+- Tava kotleti (16 ₼) | Has Image
+  Desc: quzu əti, yumurta, pomidor, kərə yağı,bibər
+- Can əti albalı və şabalıd ilə (20 ₼) | Has Image
+  Desc: can əti, şabalıd, albalı, soğan
+- Quzu maçası zoğal sousu ilə (20 ₼) | Has Image
+  Desc: quzu maçası, şabalıd, albalı, zoğal, soğan
+- Quzu nar qovurma (20 ₼) | Has Image
+  Desc: quzu əti, nar, soğan
+- Quzu Maçası (20 ₼) | Has Image
+  Desc: 2 ədəd quzu maçası, baby kartof, sarımsaq privkusu, şüyüd
+- Can əti tərəvəzlə (35 ₼) | Has Image
+  Desc: Bibərlər, soğan, göbələk, kərə yağı (2nəfərlik)
+- Ət tuşonka (16 ₼) | Has Image
+  Desc: No description.
+- Dana şapalaq (30 ₼) | Has Image
+  Desc: No description.
+- “Qala Divarı” qovurması (35 ₼) | Has Image
+  Desc: Antrikot, günəbaxan tumu, kartof, pomidor, bibər, soğan
+
+--- ƏSAS YEMƏKLƏR -> Souslar (5 items) ---
+- Ketçup Moyanez (2 ₼) | Has Image
+  Desc: No description.
+- BBQ Sousu (2 ₼) | Has Image
+  Desc: No description.
+- Zoğal Sousu (2 ₼) | Has Image
+  Desc: No description.
+- Sweet Chili (2 ₼) | Has Image
+  Desc: No description.
+- Soya Sousu (2 ₼) | Has Image
+  Desc: No description.
+
+--- ŞİRNİYYATLAR -> Çərəzlər (5 items) ---
+- Quru meyvə (12 ₼) | Has Image
+  Desc: kivi, ananas, alma, əncir, gavalı
+- Qarışıq ləpə (13 ₼) | Has Image
+  Desc: fındıq, badam, kişmiş, qoz, keju
+- Qovrulmuş fındıq (10 ₼) | Has Image
+  Desc: No description.
+- Püstə (14 ₼) | Has Image
+  Desc: No description.
+- Qarışıq çərəz (20 ₼) | Has Image
+  Desc: No description.
+
+--- ŞİRNİYYATLAR -> Desertlər (4 items) ---
+- Künefe (10 ₼) | Has Image
+  Desc: No description.
+- Paxlava (4 ₼) | Has Image
+  Desc: No description.
+- Dondurma (6 ₼) | Has Image
+  Desc: No description.
+- Südlü Paxlava (6 ₼) | Has Image
+  Desc: 2 ədəd
+
+--- ŞİRNİYYATLAR -> Mürəbbələr (8 items) ---
+- Zoğal mürəbbəsi (8 ₼) | Has Image
+  Desc: No description.
+- Şaftalı mürəbbəsi (8 ₼) | Has Image
+  Desc: No description.
+- Qoz mürəbbəsi (8 ₼) | Has Image
+  Desc: No description.
+- Qarpız mürəbbəsi (8 ₼) | Has Image
+  Desc: No description.
+- Malina mürəbbəsi (8 ₼) | Has Image
+  Desc: No description.
+- Ağ gilas mürəbbəsi (8 ₼) | Has Image
+  Desc: No description.
+- Ananas mürəbbəsi (8 ₼) | Has Image
+  Desc: No description.
+- Əncir mürəbbəsi (8 ₼) | Has Image
+  Desc: No description.
+
+--- ALKOQOLSUZ İÇKİLƏR -> Qəhvə (5 items) ---
+- Latte (6 ₼) | Has Image
+  Desc: No description.
+- Amerikano (5 ₼) | Has Image
+  Desc: No description.
+- Espresso (3 ₼) | Has Image
+  Desc: No description.
+- Double espresso (5 ₼) | Has Image
+  Desc: No description.
+- Cappuccino (6 ₼) | Has Image
+  Desc: No description.
+
+--- ALKOQOLSUZ İÇKİLƏR -> Təzə meyvə şirələri (2 items) ---
+- Portağal (7 ₼) | Has Image
+  Desc: No description.
+- Qreypfrut (7 ₼) | Has Image
+  Desc: No description.
+
+--- ALKOQOLSUZ İÇKİLƏR -> İçkilər (14 items) ---
+- Coca-cola (5 ₼) | Has Image
+  Desc: No description.
+- Fanta (5 ₼) | Has Image
+  Desc: No description.
+- Sprite (5 ₼) | Has Image
+  Desc: No description.
+- Red bull (6 ₼) | Has Image
+  Desc: No description.
+- Limonad (4 ₼) | Has Image
+  Desc: No description.
+- Fuse Tea (5 ₼) | Has Image
+  Desc: No description.
+- Ayran (2 ₼) | Has Image
+  Desc: No description.
+- Doğramac (3 ₼) | Has Image
+  Desc: No description.
+- Cappy (3 ₼) | Has Image
+  Desc: No description.
+- Tonic (5 ₼) | Has Image
+  Desc: No description.
+- Sirab qazlı\qazsız (4 ₼) | Has Image
+  Desc: No description.
+- Kompot (6 ₼) | Has Image
+  Desc: No description.
+- Pomidor şirəsi (4 ₼) | Has Image
+  Desc: 300ml/1lt
+- Sandora (alma) (4 ₼) | Has Image
+  Desc: 300ml/1lt
+
+--- ALKOQOLSUZ İÇKİLƏR -> Çay (3 items) ---
+- Azərbaycan çayı (10 ₼) | Has Image
+  Desc: Çaynik
+- Yaşıl çay (10 ₼) | Has Image
+  Desc: Çaynik
+- Qarışıq çay (10 ₼) | Has Image
+  Desc: Çaynik
+
+--- SPİRTLİ İÇKİLƏR -> Viski (8 items) ---
+- Jack Daniels (10 ₼) | Has Image
+  Desc: 50ml/1L
+- Jack Daniels (Apple) (10 ₼) | Has Image
+  Desc: 50ml/1lt
+- Jack Daniels (Honey) (10 ₼) | Has Image
+  Desc: No description.
+- Chivas Regal 12 (12 ₼) | Has Image
+  Desc: 50ml/1L
+- Chivas Regal 18 (18 ₼) | Has Image
+  Desc: 50ml/1L
+- Jameson (9 ₼) | Has Image
+  Desc: 50ml/1L
+- Monkey Shoulder (11 ₼) | Has Image
+  Desc: 50ml/1L
+- Macallan 12 (25 ₼) | Has Image
+  Desc: 50ml/0.7L
+
+--- SPİRTLİ İÇKİLƏR -> Konyak (4 items) ---
+- Hennesy V.S (15 ₼) | Has Image
+  Desc: 50ml/700ml
+- Hennesy V.S.O.P (22 ₼) | Has Image
+  Desc: 50ml/700ml
+- Azərbaycan X.O (12 ₼) | Has Image
+  Desc: 50ml/0.7L
+- Iskander (8 ₼) | Has Image
+  Desc: 50ml/0.5L
+
+--- SPİRTLİ İÇKİLƏR -> Araq (7 items) ---
+- Stolichnaya (6 ₼) | Has Image
+  Desc: 50ml/500ml
+- Finlandiya (6 ₼) | Has Image
+  Desc: 50ml/500ml
+- Belvedere (13 ₼) | Has Image
+  Desc: 50ml/700ml/1lt
+- Cotkaya (4 ₼) | Has Image
+  Desc: 50ml/500ml/700ml/1lt
+- Grey Goose (13 ₼) | Has Image
+  Desc: 50ml/500ml/700ml/1lt
+- Russkiy standart (6 ₼) | Has Image
+  Desc: 50ml/500ml/700ml/1lt
+- GRAPPOLO (SAVALAN) (60 ₼) | Has Image
+  Desc: 0.5LT
+
+--- SPİRTLİ İÇKİLƏR -> Pivə (7 items) ---
+- Efes zero (7 ₼) | Has Image
+  Desc: (330 ml)
+- Miller (8 ₼) | Has Image
+  Desc: (330 ml)
+- Heineken (9 ₼) | Has Image
+  Desc: (330 ml)
+- Xırdalan (6 ₼) | Has Image
+  Desc: (500 ml)
+- Corona (9 ₼) | Has Image
+  Desc: (330 ml)
+- Efes draft (8 ₼) | Has Image
+  Desc: (500 ml)
+- Blanc 1664 (8 ₼) | Has Image
+  Desc: 500ml
+
+--- SPİRTLİ İÇKİLƏR -> Tekila (4 items) ---
+- Olmeca Silver Blanco (8 ₼) | Has Image
+  Desc: 50ml/1L
+- Patron Silver (16 ₼) | Has Image
+  Desc: 50 ml / 700 ml
+- Don Julio Blanco (18 ₼) | Has Image
+  Desc: 50ml/700ml
+- PATRON-REPOSADO TEQUILA (20 ₼) | Has Image
+  Desc: 50ml/700ml
+
+--- SPİRTLİ İÇKİLƏR -> Şampan (2 items) ---
+- Prosecco (80 ₼) | Has Image
+  Desc: 750 ml
+- MoetChandon (220 ₼) | Has Image
+  Desc: 750ml
+
+--- SPİRTLİ İÇKİLƏR -> Likör (3 items) ---
+- Disaronno (7 ₼) | Has Image
+  Desc: 50ml/500ml
+- Cointreau (7 ₼) | Has Image
+  Desc: 50ml/1L
+- Jagermeister (8 ₼) | Has Image
+  Desc: 50ml/1L
+
+--- SPİRTLİ İÇKİLƏR -> Şərablar (8 items) ---
+- Terra Leone (12 ₼) | Has Image
+  Desc: 150ml/750ml Shiraz dry , cabernet sauvignon dry, merlot dry, merlot semi sweet) WHITE (Sauvignon blanc dry, Gewürtztraminer dry, cabernet franc rose dry) POMEGRANATE SEMI SWEET
+- Savalan (65 ₼) | Has Image
+  Desc: Cabernet Sauvignon Ripassato (dry)
+- Savalan (55 ₼) | Has Image
+  Desc: Petit Verdot (dry)
+- Savalan (92 ₼) | Has Image
+  Desc: Nobel (dry)
+- Savalan (98 ₼) | Has Image
+  Desc: Canyon (dry)
+- Savalan (55 ₼) | Has Image
+  Desc: Cabernet merlot (semy-sweet)
+- Savalan (55 ₼) | Has Image
+  Desc: Chardonnay (dry) (white)
+- Savalan (55 ₼) | Has Image
+  Desc: Sauvignon Blanc (dry) (white)
+
+--- SPİRTLİ İÇKİLƏR -> Cin Rom (3 items) ---
+- Gordons (8 ₼) | Has Image
+  Desc: 50ml/1L
+- Bacardi (8 ₼) | Has Image
+  Desc: 50ml/1L
+- Martini (7 ₼) | Has Image
+  Desc: 50ml / 1lt
+
+--- SPİRTLİ İÇKİLƏR -> Rakı (1 items) ---
+- Beylerbeyi Göbek (10 ₼) | Has Image
+  Desc: 50ml/350ml/500ml/1000ml
